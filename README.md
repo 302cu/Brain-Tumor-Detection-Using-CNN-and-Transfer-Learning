@@ -1,0 +1,2 @@
+# Brain-Tumor-Detection-Using-CNN-and-Transfer-Learning
+In this project, I use special types of artificial intelligence known as convolutional neural networks (CNNs) 🕸️ and transfer learning 🔄 to create a model that can identify brain tumors from medical images. My approach involves using the ResNet50V2, a powerful model that has already been trained on a large collection of images called ImageNet.

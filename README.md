@@ -30,7 +30,7 @@ Execute the following command to start the Jupyter notebook:
 The model integrates the ResNet50V2 base for robust feature extraction from MRI images, paired with a dense classifier to accurately predict the presence of brain tumors. The approach is fine-tuned for handling unbalanced medical image datasets.
 
 ## Results
-The model achieved a training accuracy of 99.32% and a validation accuracy of 97.67%, demonstrating its potential for clinical use in early and accurate brain tumor detection.
+The model achieved a training accuracy of 99.32% and a validation accuracy of 98.56%, demonstrating its potential for clinical use in early and accurate brain tumor detection.
 
 ## Contributing
 We welcome contributions to improve the model and its applications. Follow standard fork and pull request procedures to contribute.
